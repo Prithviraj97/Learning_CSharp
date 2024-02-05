@@ -1,12 +1,12 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 namespace RectangleApplication {
     class Rectangle {
         double width;
         double length;
 
     public void Details() {
-        length = 12.0;
-        width = 8.0;
+        length = 12;
+        width = 8;
     }
     public double GetArea() {
         return length * width;

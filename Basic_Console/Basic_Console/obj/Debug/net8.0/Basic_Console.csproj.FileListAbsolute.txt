@@ -1,0 +1,15 @@
+c:\Users\TheEarthG\source\repos\Learning_CSharp\Basic_Console\Basic_Console\bin\Debug\net8.0\Basic_Console.exe
+c:\Users\TheEarthG\source\repos\Learning_CSharp\Basic_Console\Basic_Console\bin\Debug\net8.0\Basic_Console.deps.json
+c:\Users\TheEarthG\source\repos\Learning_CSharp\Basic_Console\Basic_Console\bin\Debug\net8.0\Basic_Console.runtimeconfig.json
+c:\Users\TheEarthG\source\repos\Learning_CSharp\Basic_Console\Basic_Console\bin\Debug\net8.0\Basic_Console.dll
+c:\Users\TheEarthG\source\repos\Learning_CSharp\Basic_Console\Basic_Console\bin\Debug\net8.0\Basic_Console.pdb
+c:\Users\TheEarthG\source\repos\Learning_CSharp\Basic_Console\Basic_Console\obj\Debug\net8.0\Basic_Console.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\TheEarthG\source\repos\Learning_CSharp\Basic_Console\Basic_Console\obj\Debug\net8.0\Basic_Console.AssemblyInfoInputs.cache
+c:\Users\TheEarthG\source\repos\Learning_CSharp\Basic_Console\Basic_Console\obj\Debug\net8.0\Basic_Console.AssemblyInfo.cs
+c:\Users\TheEarthG\source\repos\Learning_CSharp\Basic_Console\Basic_Console\obj\Debug\net8.0\Basic_Console.csproj.CoreCompileInputs.cache
+c:\Users\TheEarthG\source\repos\Learning_CSharp\Basic_Console\Basic_Console\obj\Debug\net8.0\Basic_Console.sourcelink.json
+c:\Users\TheEarthG\source\repos\Learning_CSharp\Basic_Console\Basic_Console\obj\Debug\net8.0\Basic_Console.dll
+c:\Users\TheEarthG\source\repos\Learning_CSharp\Basic_Console\Basic_Console\obj\Debug\net8.0\refint\Basic_Console.dll
+c:\Users\TheEarthG\source\repos\Learning_CSharp\Basic_Console\Basic_Console\obj\Debug\net8.0\Basic_Console.pdb
+c:\Users\TheEarthG\source\repos\Learning_CSharp\Basic_Console\Basic_Console\obj\Debug\net8.0\Basic_Console.genruntimeconfig.cache
+c:\Users\TheEarthG\source\repos\Learning_CSharp\Basic_Console\Basic_Console\obj\Debug\net8.0\ref\Basic_Console.dll
