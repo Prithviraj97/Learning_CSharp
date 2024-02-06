@@ -3,6 +3,6 @@ public class Prithvi {
     string lastname = "Singh";
 
     public void Name(){
-        Console.WriteLine($"{firstname} {lastname}");
+        Console.WriteLine($"{firstname.ToUpper()} {lastname.ToLower()}");
     }
 }
