@@ -15,11 +15,12 @@ namespace RectangleApplication {
         Console.WriteLine("Length: {0}", length);
         Console.WriteLine("Width : {0}", width);
         Console.Write("Area  : {0}\n", GetArea());
+        Console.WriteLine("Size of int: {0}", sizeof(int));
     }
     }
     class ExecuteRectangle {
         static void Main(string[] args) {
-            Rectangle rect = new Rectangle();
+            Rectangle rect = new();
             rect.Details();
             rect.Display();
             Console.ReadLine();
