@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\TheEarthG\\source\\repos\\Learning_CSharp\\Basic_Console\\Basic_Console\\Basic_Console.csproj": {}
+    "C:\\Users\\TheEarthG\\source\\repos\\Learning_CSharp\\Basic_Console\\Basic_Console\\Basic_Console.csproj": {}
   },
   "projects": {
-    "c:\\Users\\TheEarthG\\source\\repos\\Learning_CSharp\\Basic_Console\\Basic_Console\\Basic_Console.csproj": {
+    "C:\\Users\\TheEarthG\\source\\repos\\Learning_CSharp\\Basic_Console\\Basic_Console\\Basic_Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\TheEarthG\\source\\repos\\Learning_CSharp\\Basic_Console\\Basic_Console\\Basic_Console.csproj",
+        "projectUniqueName": "C:\\Users\\TheEarthG\\source\\repos\\Learning_CSharp\\Basic_Console\\Basic_Console\\Basic_Console.csproj",
         "projectName": "Basic_Console",
-        "projectPath": "c:\\Users\\TheEarthG\\source\\repos\\Learning_CSharp\\Basic_Console\\Basic_Console\\Basic_Console.csproj",
+        "projectPath": "C:\\Users\\TheEarthG\\source\\repos\\Learning_CSharp\\Basic_Console\\Basic_Console\\Basic_Console.csproj",
         "packagesPath": "C:\\Users\\TheEarthG\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\TheEarthG\\source\\repos\\Learning_CSharp\\Basic_Console\\Basic_Console\\obj\\",
+        "outputPath": "C:\\Users\\TheEarthG\\source\\repos\\Learning_CSharp\\Basic_Console\\Basic_Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+
 namespace RectangleApplication {
     class Rectangle {
         double width;
@@ -16,13 +17,16 @@ namespace RectangleApplication {
         Console.WriteLine("Width : {0}", width);
         Console.Write("Area  : {0}\n", GetArea());
         Console.WriteLine("Size of int: {0}", sizeof(int));
+
     }
     }
     class ExecuteRectangle {
         static void Main(string[] args) {
             Rectangle rect = new();
+            Prithvi prithvi = new Prithvi();
             rect.Details();
             rect.Display();
+            prithvi.Name();
             Console.ReadLine();
     }
     }
