@@ -23,7 +23,7 @@ namespace RectangleApplication {
     class ExecuteRectangle {
         static void Main(string[] args) {
             Rectangle rect = new();
-            Prithvi prithvi = new Prithvi();
+            Prithvi prithvi = new();
             rect.Details();
             rect.Display();
             prithvi.Name();
