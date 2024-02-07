@@ -24,9 +24,11 @@ namespace RectangleApplication {
         static void Main(string[] args) {
             Rectangle rect = new();
             Prithvi prithvi = new();
+            Number number = new Number();
             rect.Details();
             rect.Display();
             prithvi.Name();
+            number.Num();
             Console.ReadLine();
     }
     }
